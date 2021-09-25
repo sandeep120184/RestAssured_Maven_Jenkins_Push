@@ -1,2 +1,0 @@
-cd D:\Selenium_Practice_Workspace\Selenium_RestAssured_Maven
-mvn clean install
