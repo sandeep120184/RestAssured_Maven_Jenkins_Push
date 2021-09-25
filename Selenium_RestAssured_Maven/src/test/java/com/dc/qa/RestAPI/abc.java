@@ -5,6 +5,6 @@ public class abc {
 	
 	public void abc()
 	{
-		System.out.println("testers");
+		System.out.println("tested");
 	}
 }
