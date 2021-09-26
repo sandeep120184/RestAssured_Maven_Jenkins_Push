@@ -5,6 +5,6 @@ public class abc {
 	
 	public void abc()
 	{
-		System.out.println("OM Namah shivay");
+		System.out.println("OM Namah shivay!");
 	}
 }
