@@ -5,6 +5,6 @@ public class abc {
 	
 	public void abc()
 	{
-		System.out.println("ganpati deva");
+		System.out.println("ganpati va");
 	}
 }
