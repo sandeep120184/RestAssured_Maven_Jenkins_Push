@@ -105,7 +105,7 @@ public void putUser()
 	//Json Object - Requesting Payload
 	JSONObject objPut = new JSONObject();
 	objPut.put("name", "sandeep khandelwal");
-	objPut.put("job1", "zion resident");
+	objPut.put("job", "QA Automation Lead");
 	
 	httpPutRequest.body(objPut.toJSONString());
 	
