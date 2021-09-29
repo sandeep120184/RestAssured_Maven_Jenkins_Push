@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-25T19:33:07 IST" name="Default suite" finished-at="2021-09-25T19:33:16 IST" duration-ms="8955">
+    <groups>
+    </groups>
+    <test started-at="2021-09-25T19:33:07 IST" name="Default test" finished-at="2021-09-25T19:33:16 IST" duration-ms="8955">
+      <class name="com.dc.qa.RestAPI.getListUsers">
+        <test-method signature="getListofUsers()[pri:1, instance:com.dc.qa.RestAPI.getListUsers@21e360a]" started-at="2021-09-25T19:33:07 IST" name="getListofUsers" finished-at="2021-09-25T19:33:12 IST" duration-ms="4798" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getListofUsers -->
+        <test-method signature="postCreateUsers(java.lang.String,java.lang.String)[pri:2, instance:com.dc.qa.RestAPI.getListUsers@21e360a]" started-at="2021-09-25T19:33:13 IST" name="postCreateUsers" data-provider="getData" finished-at="2021-09-25T19:33:14 IST" duration-ms="592" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sandeep]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[QA]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCreateUsers -->
+        <test-method signature="postCreateUsers(java.lang.String,java.lang.String)[pri:2, instance:com.dc.qa.RestAPI.getListUsers@21e360a]" started-at="2021-09-25T19:33:14 IST" name="postCreateUsers" data-provider="getData" finished-at="2021-09-25T19:33:15 IST" duration-ms="530" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rahul]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Developer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCreateUsers -->
+        <test-method signature="postCreateUsers(java.lang.String,java.lang.String)[pri:2, instance:com.dc.qa.RestAPI.getListUsers@21e360a]" started-at="2021-09-25T19:33:15 IST" name="postCreateUsers" data-provider="getData" finished-at="2021-09-25T19:33:15 IST" duration-ms="517" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sandeep]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Technical Manager]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCreateUsers -->
+        <test-method signature="putUser()[pri:3, instance:com.dc.qa.RestAPI.getListUsers@21e360a]" started-at="2021-09-25T19:33:15 IST" name="putUser" finished-at="2021-09-25T19:33:16 IST" duration-ms="520" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putUser -->
+        <test-method signature="deleteUsers()[pri:4, instance:com.dc.qa.RestAPI.getListUsers@21e360a]" started-at="2021-09-25T19:33:16 IST" name="deleteUsers" finished-at="2021-09-25T19:33:16 IST" duration-ms="512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUsers -->
+      </class> <!-- com.dc.qa.RestAPI.getListUsers -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
